@@ -1,0 +1,17 @@
+{
+  "name": "slim-multimain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "can": "^5.2.2",
+    "steal": "^2.0.2",
+    "steal-tools": "^2.0.2"
+  }
+}
